@@ -7,10 +7,10 @@ Linux kernel coding style
 =========================
 
 This is a short document describing the preferred coding style for the
-linux kernel.  Coding style is very personal, and I won't **force** my
-views on anybody, but this is what goes for anything that I have to be
-able to maintain, and I'd prefer it for most other things too.  Please
-at least consider the points made here.
+linux kernel.  Coding style is very personal, and I (Linus Torvalds)
+won't **force** my views on anybody, but this is what goes for anything
+that I have to be able to maintain, and I'd prefer it for most other
+things too. Please at least consider the points made here.
 
 First off, I'd suggest printing out a copy of the GNU coding standards,
 and NOT read it.  Burn them, it's a great symbolic gesture.
@@ -40,7 +40,7 @@ find yourself, one day, in this pit of despair.
 
 ````
 In the modern era, software is commonly delivered as a service: called
-web apps, or software-as-a-service. The twelve-factor app is a
+web apps, or software-as-a-service.  The twelve-factor app is a
 methodology for building software-as-a-service apps that:
 
   - Use declarative formats for setup automation, to minimize time and
