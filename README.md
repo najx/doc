@@ -18,7 +18,7 @@ and NOT read it.  Burn them, it's a great symbolic gesture.
 Anyway, here goes:
 ````
 
-- [Coding Style](https://www.kernel.org/doc/Documentation/process/coding-style.rst)
+  - [Coding Style](https://www.kernel.org/doc/Documentation/process/coding-style.rst)
 
 ---
 
@@ -34,7 +34,7 @@ packages you integrate into your software, the more likely you are to
 find yourself, one day, in this pit of despair.
 ````
 
--[Semantic Versioning](https://semver.org/)
+  - [Semantic Versioning](https://semver.org/)
 
 ---
 
@@ -59,4 +59,4 @@ programming language, and which use any combination of backing
 services (database, queue, memory cache, etc).
 ````
 
--[The twelve-factor app](https://12factor.net/)
+  - [The twelve-factor app](https://12factor.net/)
