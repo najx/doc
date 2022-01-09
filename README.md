@@ -83,3 +83,11 @@ their availability, latency, performance, and capacity.
 
   - [Site Reliability Engineering](https://sre.google/)
 
+## Cloud Computing ☁️
+
+````
+A simple cloud comparison chart of all the cloud services offered by the major
+public cloud vendors globally.
+````
+
+  - [Cloud Compare](https://comparecloud.in/)
