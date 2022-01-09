@@ -66,7 +66,7 @@ programming language, and which use any combination of backing
 services (database, queue, memory cache, etc).
 ````
 
-  - [The twelve-factor app](https://12factor.net/)
+  - [The Twelve-Factor App](https://12factor.net/)
 
 ---
 
