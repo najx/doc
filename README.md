@@ -25,8 +25,8 @@ Anyway, here goes:
 ## Software engineering 👩🏼‍🍳
 
 ````
-Semantic Versioning 2.0.0
-=========================
+Semantic Versioning
+===================
 
 In the world of software management there exists a dreaded place
 called “dependency hell.” The bigger your system grows and the more
@@ -39,6 +39,13 @@ find yourself, one day, in this pit of despair.
 ---
 
 ````
+The Twelve-Factors App
+======================
+
+Who should read this document?
+Any developer building applications which run as a service.
+Ops engineers who deploy or manage such applications.
+
 In the modern era, software is commonly delivered as a service: called
 web apps, or software-as-a-service.  The twelve-factor app is a
 methodology for building software-as-a-service apps that:
@@ -60,3 +67,19 @@ services (database, queue, memory cache, etc).
 ````
 
   - [The twelve-factor app](https://12factor.net/)
+
+---
+
+````
+What is Site Reliability Engineering (SRE)?
+===========================================
+
+SRE is what you get when you treat operations as if it’s a software problem.
+Our mission is to protect, provide for, and progress the software and systems
+behind all of Google’s public services — Google Search, Ads, Gmail, Android,
+YouTube, and App Engine, to name just a few — with an ever-watchful eye on
+their availability, latency, performance, and capacity.
+````
+
+  - [Site Reliability Engineering](https://sre.google/)
+
