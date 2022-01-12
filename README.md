@@ -22,6 +22,18 @@ Anyway, here goes:
 
 ---
 
+````
+Licensing a project
+===================
+
+Public repositories on GitHub are often used to share open source
+software. For your repository to truly be open source, you'll need to
+license it so that others are free to use, change, and distribute the
+software.
+````
+
+  - [Licensing an open source project](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository)
+
 ## Software engineering 👩🏼‍🍳
 
 ````
